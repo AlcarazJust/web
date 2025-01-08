@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-date: 2021/01/08
+date: 2025/01/08
 author: Jordi Just Alcaraz
 ---
 
