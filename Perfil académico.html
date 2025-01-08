@@ -1,0 +1,58 @@
+---
+title: "Mi perfil académico"
+author: Jordi Just Alcaraz
+---
+
+## Entorno personal de aprendizaje
+
+<p style="text-align: justify;">
+Como futuro investigador y actual estudiante, me interesa sobremanera mantenerme actualizado en los últimos avances y publicaciones de mis áreas de interés (principalmente, la fonética y fonología teóricas y aplicadas). Por ello, en mi entorno personal de aprendizaje me mantengo actualizado de las últimas novedades mediante listas de difusión como Infoling y Luinguist List, a las que estoy suscrito, así como siguiendo infinidad de cuentas (personales, editoriales, institucionales…) en redes sociales como X o BlueSky (esta última más de nicho, con un uso mucho más académico). Precisamente en ellas, aparecen con gran asiduidad noticias relacionadas con mi campo de forma más inmediata que en las listas.
+</p>
+
+<p style="text-align: justify;">
+Con frecuencia, además, recurro a fuentes de información varias, tales como artículos académicos de revistas especializadas: para la fonética y la fonología en general, <i>Loquens</i> y <i>Estudios de Fonética Experimental</i> (ambas de ámbito nacional, aunque internacionalizadas), por ejemplo, y para la vertiente aplicada, algunas como el <i>International Journal of Speech-Language Pathology</i> o el <i>Journal of Speech, Language, and Hearing Research</i> (de tónica clínica) y <i>The International Journal of Speech, Language and the Law</i> (de interés forense), todas ellas de alcance internacional. También tengo en cuenta editoriales más genéricas (Síntesis, Akal, Routledge, Oxford, Cambridge, Tylor & Francis, etc.).
+</p>
+
+<p style="text-align: justify;">
+En concreto, esta última revista, la <i>IJSLL</i>, se fundamenta en dos foros o grupos de investigación sobre lingüística forense (The International Association for Forensic & Legal Linguistics) y fonética forense (The International Association for Forensic Phonetics and Acoustics), a los que sigo constantemente y a cuya membresía espero unirme pronto. De hecho, ambas asociaciones las conocí gracias a una investigadora del CSIC, Eugenia San Segundo, con la que mantengo contacto y que fue profesora mía de un curso de formación permanente de la UNED sobre fonética forense titulado <i>La huella vocal. Peritajes en fonética forense</i> (ya extinto).
+</p>
+
+<p style="text-align: justify;">
+Por todo ello, mi entorno personal de aprendizaje se ve constantemente enriquecido con cursos online (principalmente, los de la UNED y UNED Abierta) y presenciales (algunos de los que se ofertan en el seno de la USAL), además de asistencia y participación en congresos (también a sus planes sociales como comidas y rutas), simposios, talleres y seminarios; importante es reseñar el congreso que se organiza desde la Asociación de Jóvenes Lingüistas, pero valgan como ejemplo las jornadas organizadas anualmente desde el grupo FonoLab-USAL, los FOD, a las que siempre asisto, que son un buen foro de discusión y trasmisión del conocimiento, útiles para tender lazos académicos.
+</p>
+
+## Entorno personal de investigación
+
+<p style="text-align: justify;">
+Por otra parte, en cuanto a mi entorno personal de investigación, mantengo contacto activo con todos los perfiles académicos de difusión del conocimiento como Researchgate (la más usada, sobre todo en aquellos casos en los que el artículo científico no se encuentra disponible por internet y hay que pedírselo al autor o autores), Academia, Google Scholar y COMUN-ES (este último menos usado, pues se circunscribe a un área de trabajo hispanista, más restringida de lo que yo pretendo encontrar). Con ellas, además de Dialnet, encuentro los temas que me interesan y amplío el marco de referencia del que parto y que ya he comentado en cuanto al entorno personal de aprendizaje.
+</p>
+
+<p style="text-align: justify;">
+En relación con ello, como base para la gestión de la información y los recursos, parto de las páginas ya mencionadas (Dialnet, Researchgate y Google Sholar, principalmente) y amplío con otras bases de datos más grandes como la proporcionada por Elsevier para el ámbito internacional. Toda la información que descargo en el formato que sea la almaceno en la nube (generalmente en OneDrive, con el que tengo sincronización en varios dispositivos como el escritorio del ordenador, y en Google Drive, desde el que tengo acceso en cualquier momento). Para la gestión más propiamente dicha, de cara a la elaboración de un documento científico, empleo siempre Zotero, que me ayuda a organizar la información.
+</p>
+
+<p style="text-align: justify;">
+En cuanto a la metodología de investigación, manejar los programas específicos de mi área (fonética) es crucial para llevar a cabo una buena investigación, especialmente si se conduce un estudio acústico. Por ello, el uso y la comprensión de Praat y sus herramientas se vuelve casi obligatorio en el día a día, pero también conviene ampliar sus funcionalidades con código creado ad hoc. Además, en aquellas tareas en que Praat no se desenvuelve con facilidad, conviene hacer uso de otros programas como Audacity o Goldwave (para la edición de audio), SPPAS (un software poco conocido para agilizar el proceso de transcripción y etiquetaje de audio en varios idiomas). Sin embargo, el uso de IA como Whisper es cada vez más acusado.
+</p>
+
+<p style="text-align: justify;">
+En paralelo, se recurre con frecuencia a softwares especializados de análisis estadístico, toda vez que los datos acústicos extraídos necesitan un tratamiento, en muchas ocasiones, cuantitativo. En consecuencia, el control de conceptos matemáticos y estadísticos se vuelve crucial si se empieza a usar programas como SPSS (más sencillo, pero menos preferible científicamente), o bien RStudio (más complejo, pero de acceso abierto y trasparente). Ambos los he usado, pero sí que es cierto que el segundo ofrece un abanico de posibilidades mucho más amplio, pues es un programa diseñado por una comunidad de estadistas entera, en constante mejora y actualización, y no solo por una empresa con fines comerciales.
+</p>
+
+<p style="text-align: justify;">
+En último lugar, de cara a la producción y escritura científica, he empezado a recurrir a distintos tipos de IA según el objetivo que pretenda conseguir: de un lado, Perplexity AI si lo que se pretende es buscar respuestas fundamentadas con referencias bibliográficas, de otro, Jenni AI si lo que se espera es una ayuda en la redacción (sugerencias de estilo y de contenido guiado por el investigador). También ayuda mucho a organizar las ideas la plataforma NotebookLM de Google, que permite manejar las fuentes propias subidas y obtener respuestas a partir de los documentos cargados. Asimismo, el uso de ChatGPT y sus GPT personalizados viene bien para monitoreo de código de Praat y RStudio.
+</p>
+
+## Hoja de ruta de cara a futuro
+
+<p style="text-align: justify;">
+En última instancia, como hoja de ruta de cara a los años venideros en el terreno de la investigación, el objetivo principal es crear una página web (como esta que en la que estás leyendo estas líneas) que centralice todos los recursos y enlaces directos a artículos, páginas académicas, redes sociales, etc., para facilitar la localización de todo lo referente a mí y a mi investigación, amén de facilitar la visibilización y difusión de mi trabajo. Conviene también, por ejemplo, vincular a la página web un repositorio digital (GitHub) con la información complementaria y los datos empleados en la investigación (por ejemplo, el código creado y la matriz de datos), con el objetivo de contribuir a la ciencia abierta.
+</p>
+
+<p style="text-align: justify;">
+Publicar en acceso abierto es una de las mayores necesidades de la ciencia actual, sobre todo para evitar el oscurantismo y el acceso complicado a ciertas investigaciones; por ello, uno de los objetivos de futuro en la investigación se centrará en publicaciones de fácil acceso y disponibles para todos los interesados. En esta línea, además, también es útil el papel de la divulgación científica; hacer recaer el peso de la ciencia excesivamente en la especialización puede generar un efecto adverso incluso entre los investigadores. Por ello, conviene también facilitar la legibilidad y comprensión de las investigaciones para llegar a un mayor número de público y evitar el aislamiento.
+</p>
+
+<p style="text-align: justify;">
+En última instancia, interesa también crear un gran número de relaciones académicas entre distintos investigadores e instituciones a partir de proyectos y grupos de investigación nacionales e internacionales variados. Tender lazos entre diferentes investigadores resulta crucial para lograr un mayor alcance del trabajo propio y compartido, conque participar en redes académicas (asociaciones y foros oficiales) ayuda a abrir el abanico de oportunidades. Y todo ello, además, se puede conseguir participando en proyectos de investigación abiertos a cualquier interesado en investigar sobre un tema concreto. En conclusión, trabajar las relaciones académicas interpersonales favorece la expansión del trabajo propio.
+</p>
