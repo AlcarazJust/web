@@ -14,7 +14,7 @@ Con frecuencia, además, recurro a fuentes de información varias, tales como ar
 </p>
 
 <p style="text-align: justify;">
-En concreto, esta última revista, la <i>IJSLL</i>, se fundamenta en dos foros o grupos de investigación sobre lingüística forense (The International Association for Forensic & Legal Linguistics) y fonética forense (The International Association for Forensic Phonetics and Acoustics), a los que sigo constantemente y a cuya membresía espero unirme pronto. De hecho, ambas asociaciones las conocí gracias a una investigadora del CSIC, Eugenia San Segundo, con la que mantengo contacto y que fue profesora mía de un curso de formación permanente de la UNED sobre fonética forense titulado *La huella vocal. Peritajes en fonética forense* (ya extinto).
+En concreto, esta última revista, la <i>IJSLL</i>, se fundamenta en dos foros o grupos de investigación sobre lingüística forense (The International Association for Forensic & Legal Linguistics) y fonética forense (The International Association for Forensic Phonetics and Acoustics), a los que sigo constantemente y a cuya membresía espero unirme pronto. De hecho, ambas asociaciones las conocí gracias a una investigadora del CSIC, Eugenia San Segundo, con la que mantengo contacto y que fue profesora mía de un curso de formación permanente de la UNED sobre fonética forense titulado <i>La huella vocal. Peritajes en fonética forense</i> (ya extinto).
 </p>
 
 <p style="text-align: justify;">
