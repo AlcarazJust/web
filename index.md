@@ -1,6 +1,5 @@
 ---
-title: Mi perfil académico
-date: 2025/01/08
+title: "Mi perfil académico"
 author: Jordi Just Alcaraz
 ---
 
