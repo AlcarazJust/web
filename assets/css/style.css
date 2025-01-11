@@ -92,7 +92,10 @@
 }
 
 body {
-  margin: 1;
+  margin-top: 10;
+  margin-bottom: 10;
+  margin-left: 10;
+  margin-right: 10;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
@@ -113,7 +116,9 @@ hr {
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
-  margin-top: 1;
+  margin-top: 10;
+  margin-left: 10;
+  margin-right: 10;
   margin-bottom: 1rem;
   font-weight: 500;
   line-height: 1.2;
@@ -164,7 +169,9 @@ h6, .h6 {
 }
 
 p {
-  margin-top: 1;
+  margin-top: 10;
+  margin-left: 10;
+  margin-right: 10;
   margin-bottom: 1rem;
 }
 
