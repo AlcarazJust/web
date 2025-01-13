@@ -6,50 +6,67 @@
     <title>Mi página web</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <style>
-        #profile {
-            display: flex; /* Activar flexbox */
-            flex-direction: column; /* Organizar los elementos en columna */
-            align-items: center; /* Centrar verticalmente */
-            gap: 20px; /* Espaciado entre la imagen y el texto */
-            text-align: center; /* Alinear el texto al centro */
-            margin: 20px;
-        }
-        .avatar-circle {
-            width: 200px; /* Ancho de la imagen */
-            height: 200px; /* Altura igual al ancho para el círculo */
-            border-radius: 100%; /* Forma de círculo */
-            object-fit: cover; /* Ajustar la imagen al contenedor sin deformarla */
-            border: 2px solid #ddd; /* Borde opcional */
-        }
-        .portrait-title h2 {
-            margin: 0; /* Eliminar márgenes por defecto */
-            font-size: 24px; /* Tamaño del nombre */
-            font-family: 'Trebuchet MS';
-        }
-        .portrait-title h3 {
-            margin: 5px 0; /* Espaciado entre subtítulos */
-            font-size: 18px; /* Tamaño de los subtítulos */
-            color: #555; /* Color gris para el texto */
-            font-family: 'Trebuchet MS';
-        }
-        ul {
-            list-style: none; /* Eliminar los puntos de las listas */
-            display: flex; /* Organizar en fila */
-            justify-content: center; /* Centrar horizontalmente */
-            margin: 0;
-            padding: 0; /* Quitar el margen interno de la lista */
-            gap: 15px; /* Espacio entre los iconos */
-        }
-        ul li a {
-            text-decoration: none; /* Quitar el subrayado */
-            color: #555; /* Color de los iconos */
-            font-size: 24px; /* Tamaño de los iconos */
-            transition: color 0.3s; /* Animación para el cambio de color */
-        }
-        ul li a:hover {
-            color: #1DA1F2; /* Azul de Twitter */
-        }
-  </style>
+    /* Contenedor principal */
+    #profile {
+        display: flex; /* Activar flexbox */
+        flex-direction: column; /* Organizar los elementos en columna */
+        align-items: center; /* Centrar horizontalmente */
+        justify-content: center; /* Centrar verticalmente */
+        gap: 20px; /* Espaciado entre la imagen y el texto */
+        text-align: center; /* Alinear el texto al centro */
+        margin: 0 auto; /* Centramos el contenedor horizontalmente */
+        width: 100%; /* Aseguramos que ocupe el 100% del ancho */
+        max-width: 500px; /* Limitar el ancho máximo si es necesario */
+    }
+
+    /* Imagen circular */
+    .avatar-circle {
+        width: 200px; /* Ancho de la imagen */
+        height: 200px; /* Altura igual al ancho para el círculo */
+        border-radius: 100%; /* Forma de círculo */
+        object-fit: cover; /* Ajustar la imagen al contenedor sin deformarla */
+        border: 2px solid #ddd; /* Borde opcional */
+    }
+
+    /* Título */
+    .portrait-title h2 {
+        margin: 0; /* Eliminar márgenes por defecto */
+        font-size: 24px; /* Tamaño del nombre */
+        font-family: 'Trebuchet MS';
+        font-weight: bold;
+    }
+
+    /* Subtítulo */
+    .portrait-title h3 {
+        margin: 5px 0; /* Espaciado entre subtítulos */
+        font-size: 18px; /* Tamaño de los subtítulos */
+        color: #555; /* Color gris para el texto */
+        font-family: 'Trebuchet MS';
+    }
+
+    /* Lista de iconos */
+    ul {
+        list-style: none; /* Eliminar los puntos de las listas */
+        display: flex; /* Organizar en fila */
+        justify-content: center; /* Centrar horizontalmente */
+        margin: 0;
+        padding: 0; /* Quitar el margen interno de la lista */
+        gap: 15px; /* Espacio entre los iconos */
+    }
+
+    /* Enlace de iconos */
+    ul li a {
+        text-decoration: none; /* Quitar el subrayado */
+        color: #555; /* Color de los iconos */
+        font-size: 24px; /* Tamaño de los iconos */
+        transition: color 0.3s; /* Animación para el cambio de color */
+    }
+
+    /* Efecto al pasar el ratón */
+    ul li a:hover {
+        color: #1DA1F2; /* Azul de Twitter */
+    }
+    </style>
 </head>
 <body>
     <header>
