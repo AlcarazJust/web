@@ -5,6 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi página web</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+    /* Estilo general para el contenedor del perfil */
+    #profile {
+      display: flex; /* Para organizar en fila */
+      align-items: center; /* Centrar verticalmente */
+      gap: 20px; /* Espaciado entre la imagen y el texto */
+      text-align: left; /* Alinear el texto a la izquierda */
+      margin: 20px;
+    }
+
+    /* Estilo para la imagen */
+    .avatar-circle {
+      width: 150px; /* Ancho de la imagen */
+      height: 150px; /* Altura igual al ancho para el círculo */
+      border-radius: 50%; /* Forma de círculo */
+      object-fit: cover; /* Ajustar la imagen al contenedor sin deformarla */
+      border: 2px solid #ddd; /* Borde opcional */
+    }
+
+    /* Estilo para los títulos */
+    .portrait-title h2 {
+      margin: 0; /* Eliminar márgenes por defecto */
+      font-size: 24px; /* Tamaño del nombre */
+    }
+
+    .portrait-title h3 {
+      margin: 5px 0; /* Espaciado entre subtítulos */
+      font-size: 18px; /* Tamaño de los subtítulos */
+      color: #555; /* Color gris para el texto */
+    }
+  </style>
 </head>
 <body>
     <header>
@@ -58,7 +89,7 @@
         </li>
         <li>
           <a href="https://bsky.app/profile/alcarazjust.bsky.social" target="_blank" rel="noopener">
-            <i class="fa-brands fa-bluesky"></i>
+            <i class="fab fa-bluesky"></i>
           </a>
         </li>
         <li>
