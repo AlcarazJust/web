@@ -92,10 +92,10 @@
 }
 
 body {
-  margin-top: 10;
-  margin-bottom: 10;
-  margin-left: 10;
-  margin-right: 10;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   font-family: "Noto Sans";
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
@@ -120,7 +120,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-left: 10;
   margin-right: 10;
   margin-bottom: 1rem;
-  font-family: "Segoe UI";
+  font-family: "Trebuchet MS";
   font-weight: 500;
   line-height: 1.2;
 }
@@ -3758,6 +3758,7 @@ textarea.form-control-lg {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  font-family: "Trebuchet MS";
   justify-content: space-between;
   padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
 }
